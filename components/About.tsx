@@ -12,7 +12,7 @@ const About = () => {
       transition={{ delay: 0.175 }}
       className="mb-28 max-w-[45rem] text-center leading-8 sm:mb-40"
     >
-      <SectionHeading>About Fikri</SectionHeading>
+      <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Accounting</span>, I decided to pursue my
